@@ -1,2 +1,2 @@
-# Graph(Kruskal MST)
+# Graph(Kruskal MST, MinHeap)
 ![](./result10.png)
